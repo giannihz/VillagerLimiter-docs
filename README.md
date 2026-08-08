@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/giannihz/VillagerLimiter-docs/main/banner.png" width="900">
+</p>
+
 <h1 align="center">🧑‍🌾 VillagerLimiter</h1>
 
 <p align="center">
